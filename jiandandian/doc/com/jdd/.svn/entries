@@ -1,0 +1,53 @@
+10
+
+dir
+15
+http://code.taobao.org/svn/sssvip/jiandandian/doc/com/jdd
+http://code.taobao.org/svn/sssvip
+
+
+
+2016-06-25T14:53:58.208978Z
+15
+sssvip
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+32ec3d18-290f-4a28-a273-51cfca7796eb
+
+
+
+
+
+
+0
+
+controller
+dir
+
+dao
+dir
+
+model
+dir
+
+servlet
+dir
+
+test
+dir
+
+until
+dir
+

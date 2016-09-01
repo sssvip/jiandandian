@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/sssvip/!svn/ver/5/jiandandian/src/com/jdd/model
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sssvip/!svn/ver/6/jiandandian/src/com/jdd/model/Order.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sssvip/!svn/ver/6/jiandandian/src/com/jdd/model/Table.java
+END
+CookbookSellcount.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sssvip/!svn/ver/6/jiandandian/src/com/jdd/model/CookbookSellcount.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sssvip/!svn/ver/6/jiandandian/src/com/jdd/model/User.java
+END
+CookbookCollect.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sssvip/!svn/ver/6/jiandandian/src/com/jdd/model/CookbookCollect.java
+END
+Shop.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sssvip/!svn/ver/6/jiandandian/src/com/jdd/model/Shop.java
+END
+Cuisine.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sssvip/!svn/ver/6/jiandandian/src/com/jdd/model/Cuisine.java
+END
+ShopCollect.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sssvip/!svn/ver/6/jiandandian/src/com/jdd/model/ShopCollect.java
+END
+Cookbook.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sssvip/!svn/ver/6/jiandandian/src/com/jdd/model/Cookbook.java
+END

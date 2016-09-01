@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/sssvip/!svn/ver/5/jiandandian/src/com/jdd/test
+END
+MD5Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sssvip/!svn/ver/7/jiandandian/src/com/jdd/test/MD5Test.java
+END
+MyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sssvip/!svn/ver/6/jiandandian/src/com/jdd/test/MyTest.java
+END
+MessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sssvip/!svn/ver/9/jiandandian/src/com/jdd/test/MessageTest.java
+END
+UserDaoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sssvip/!svn/ver/13/jiandandian/src/com/jdd/test/UserDaoTest.java
+END

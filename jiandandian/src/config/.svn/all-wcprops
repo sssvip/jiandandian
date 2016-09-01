@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/sssvip/!svn/ver/5/jiandandian/src/config
+END
+mybatisconf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sssvip/!svn/ver/6/jiandandian/src/config/mybatisconf.xml
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sssvip/!svn/ver/5/jiandandian/src/config/jdbc.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sssvip/!svn/ver/5/jiandandian/src/config/applicationContext.xml
+END
+spring-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sssvip/!svn/ver/10/jiandandian/src/config/spring-servlet.xml
+END

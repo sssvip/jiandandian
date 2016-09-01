@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.2.xsd">
+
+	<!-- 完成请求和注解POJO的映射 -->
+	<bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter" />
+	<!-- 支持上传文件 -->  
+    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver"/> 
+	<!-- 设置试图的解析ViewResolver -->
+	<bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<!--此处不加这行似乎也能在jsp中用jstl，只要正确引入了tag -->
+		<!-- <property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/> -->
+		
+		<!-- 指定视图层目录为WEB-INF下的jsp目录 -->
+		<!-- <property name="prefix" value="/WEB-INF/pages/" /> -->
+		<!-- 指定视图层使用jsp后缀文件 -->
+		<!-- <property name="suffix" value=".jsp" /> -->
+	</bean>
+	
+</beans>                              

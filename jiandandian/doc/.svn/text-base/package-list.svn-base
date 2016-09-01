@@ -1,0 +1,7 @@
+com.jdd.controller
+com.jdd.dao
+com.jdd.dao.impl
+com.jdd.model
+com.jdd.servlet
+com.jdd.test
+com.jdd.until
